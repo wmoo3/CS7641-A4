@@ -1,6 +1,6 @@
 # CS7641-A4
 
-### **Assignment - Reinforcement Learning**  
+### **Assignment - Markov Decision Process*  
  
 &nbsp;&nbsp;mdp.py is based on Allan Reyes' Gym Solutions   
 &nbsp;&nbsp;https://github.com/allanbreyes/gym-solutions  
